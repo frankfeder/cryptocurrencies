@@ -1,2 +1,2 @@
-# cryptocurrencies
-testing workspace for unsupervised learning in python
+# Cryptocurrency Data KMeans Classification
+In crypto_clustering.ipynb, I walk through preprocessing, training, predicting, and visualizing the classification of cryptocurrency data using a KMeans approach. 
